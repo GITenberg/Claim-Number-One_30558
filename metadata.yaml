@@ -1,0 +1,40 @@
+_repo: Claim-Number-One_30558
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: St. John, J. Allen (James Allen)
+    aliases:
+    - John, J. Allen St.
+    - John, James Allen St.
+    birthdate: 1872
+    deathdate: 1957
+    gutenberg_agent_id: '25193'
+    url: http://www.gutenberg.org/2009/agents/25193
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ogden, George W. (George Washington)
+    aliases:
+    - Ogden, George Washington
+    - Ogden, G. W. (George Washington)
+    birthdate: 1871
+    deathdate: 1966
+    gutenberg_agent_id: '9477'
+    url: http://www.gutenberg.org/2009/agents/9477
+description: ''
+gutenberg_issued: '2009-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30558'
+  lccn: '22011289'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+title: Claim Number One
+url: http://www.gutenberg.org/ebooks/30558
